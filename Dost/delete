@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dost App – Account & Data Deletion</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    ul {
+      line-height: 1.7;
+    }
+    .footer {
+      margin-top: 3rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Dost App – Account & Data Deletion Policy</h1>
+
+  <p><strong>Your Privacy. Your Control.</strong></p>
+
+  <p>At <strong>Dost</strong>, we take privacy seriously. Users have full control to delete their account and all personal data anytime through the app.</p>
+
+  <h2>🛠️ How to Delete Your Account:</h2>
+  <ul>
+    <li>Open the <strong>AI Dost</strong> app</li>
+    <li>Go to <strong>Profile</strong></li>
+    <li>Click on <strong>SOS</strong></li>
+    <li>Tap <strong>Confirm Account & Data Deletion</strong></li>
+  </ul>
+
+  <p>Once confirmed:</p>
+  <ul>
+    <li>Your account will be permanently deleted</li>
+    <li>All your chat data and personal content will be erased</li>
+    <li>This action is irreversible</li>
+  </ul>
+
+  <p>If you need help or have questions, contact us at: <strong>Raman.business.info@gmail.com</strong></p>
+
+  <div class="footer">
+    <p>© Dost App. All rights reserved.</p>
+  </div>
+</body>
+</html>
